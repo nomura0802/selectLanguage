@@ -17,21 +17,21 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4fV-Pl-l1j">
-                                <rect key="frame" x="136" y="386.33333333333331" width="121.33333333333331" height="79.333333333333314"/>
+                                <rect key="frame" x="158.66666666666666" y="386.66666666666669" width="76" height="78.666666666666686"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zQ8-rb-eqL">
-                                        <rect key="frame" x="0.0" y="0.0" width="121.33333333333333" height="34.333333333333336"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="76" height="34.333333333333336"/>
                                         <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                         <state key="normal" title="Button"/>
-                                        <buttonConfiguration key="configuration" style="plain" title="language_jp"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="日本語"/>
                                         <userDefinedRuntimeAttributes>
                                             <userDefinedRuntimeAttribute type="string" keyPath="localizedText" value="Localizable.language_jp"/>
                                         </userDefinedRuntimeAttributes>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NMJ-NX-mlO">
-                                        <rect key="frame" x="0.0" y="44.333333333333371" width="121.33333333333333" height="35"/>
+                                        <rect key="frame" x="0.0" y="44.333333333333314" width="76" height="34.333333333333343"/>
                                         <state key="normal" title="Button"/>
-                                        <buttonConfiguration key="configuration" style="plain" title="language_en"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="英語"/>
                                         <userDefinedRuntimeAttributes>
                                             <userDefinedRuntimeAttribute type="string" keyPath="localizedText" value="Localizable.language_en"/>
                                         </userDefinedRuntimeAttributes>

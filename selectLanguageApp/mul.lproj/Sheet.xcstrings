@@ -2,13 +2,13 @@
   "sourceLanguage" : "ja",
   "strings" : {
     "NMJ-NX-mlO.configuration.title" : {
-      "comment" : "Class = \"UIButton\"; configuration.title = \"language_en\"; ObjectID = \"NMJ-NX-mlO\";",
+      "comment" : "Class = \"UIButton\"; configuration.title = \"英語\"; ObjectID = \"NMJ-NX-mlO\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "ja" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "language_en"
+            "value" : "英語"
           }
         }
       }
@@ -26,13 +26,13 @@
       }
     },
     "zQ8-rb-eqL.configuration.title" : {
-      "comment" : "Class = \"UIButton\"; configuration.title = \"language_jp\"; ObjectID = \"zQ8-rb-eqL\";",
+      "comment" : "Class = \"UIButton\"; configuration.title = \"日本語\"; ObjectID = \"zQ8-rb-eqL\";",
       "extractionState" : "extracted_with_value",
       "localizations" : {
         "ja" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "language_jp"
+            "value" : "日本語"
           }
         }
       }

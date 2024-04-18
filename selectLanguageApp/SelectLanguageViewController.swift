@@ -22,6 +22,7 @@ class SelectLanguageViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         bindUI()
     }
     
