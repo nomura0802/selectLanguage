@@ -1,0 +1,54 @@
+{
+  "sourceLanguage" : "ja",
+  "strings" : {
+    "NMJ-NX-mlO.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"language_en\"; ObjectID = \"NMJ-NX-mlO\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "language_en"
+          }
+        }
+      }
+    },
+    "NMJ-NX-mlO.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"NMJ-NX-mlO\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "zQ8-rb-eqL.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"language_jp\"; ObjectID = \"zQ8-rb-eqL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "language_jp"
+          }
+        }
+      }
+    },
+    "zQ8-rb-eqL.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"zQ8-rb-eqL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

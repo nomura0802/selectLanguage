@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  selectLanguageApp
+
+  Created by Takashi Nomura on 2024/04/18.
+  
+*/
+
+"open_sheet" = "シートを開く";
+"select_language" = "選択した言語";
+"language_jp" = "日本語";
+"language_en" = "英語";

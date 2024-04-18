@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-selectLanguageApp/Pods-selectLanguageApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/LanguageManager-iOS/LanguageManager_iOS.framework
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
