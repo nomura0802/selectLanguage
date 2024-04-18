@@ -37,8 +37,6 @@ class ViewController: UIViewController {
             if let languageSelectorVC = storyboard.instantiateViewController(withIdentifier: "Sheet") as? SelectLanguageViewController {
                 let viewModel = LanguageSelectionViewModel()
                 languageSelectorVC.viewModel = viewModel
-                
-                // 言語変更の購読
                 viewModel.shouldDismiss
                     .bind { [weak self] in
                         self?.updateTexts()
